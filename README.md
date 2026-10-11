@@ -5,6 +5,8 @@ Les utilisateurs peuvent consulter les pollutions signalées, en déclarer de no
 
 Ce dépôt contient uniquement le **front-end**. Il communique avec une API REST séparée (back-end Node.js) déployée sur Render.
 
+Voir [API](https://github.com/Chocoshed/projet_pollution_angular_api)
+
 ---
 
 ## Sommaire
